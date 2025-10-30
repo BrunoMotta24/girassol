@@ -8,9 +8,9 @@ body {
 body {
   display: flex;
   margin: auto;
-  background-image: url("image/Lua.png"), url(https://assets.codepen.io/4927073/Background6.png);
-  background-image: url("image/Lua.png"), linear-gradient(33deg, #edf2f7, #edf2f7);
-  background-image: url("image/Lua.png"),  linear-gradient(33deg, #524f4c, #525a5f);
+  background-image: url("image/ceu.png"), url(https://assets.codepen.io/4927073/Background6.png);
+  background-image: url("image/ceu.png"), linear-gradient(33deg, #edf2f7, #edf2f7);
+  background-image: url("image/ceu.png"),  linear-gradient(33deg, #524f4c, #525a5f);
   background-size: cover;
   background-position: 50% 50%;
 }
