@@ -8,9 +8,9 @@ body {
 body {
   display: flex;
   margin: auto;
-  background-image: url(https://photos.fife.usercontent.google.com/pw/AP1GczPugAeS9heifODxUG-1AS01g-OLtRseiTT4uDR05uDWwHO1lFIGXFzH=w1545-h869-s-no-gm?authuser=0), url(https://assets.codepen.io/4927073/Background6.png);
-  background-image: url(https://photos.fife.usercontent.google.com/pw/AP1GczPugAeS9heifODxUG-1AS01g-OLtRseiTT4uDR05uDWwHO1lFIGXFzH=w1545-h869-s-no-gm?authuser=0), linear-gradient(33deg, #edf2f7, #edf2f7);
-  background-image: url(https://photos.fife.usercontent.google.com/pw/AP1GczPugAeS9heifODxUG-1AS01g-OLtRseiTT4uDR05uDWwHO1lFIGXFzH=w1545-h869-s-no-gm?authuser=0),  linear-gradient(33deg, #524f4c, #525a5f);
+  background-image: url("image/Lua.png"), url(https://assets.codepen.io/4927073/Background6.png);
+  background-image: url("image/Lua.png"), linear-gradient(33deg, #edf2f7, #edf2f7);
+  background-image: url("image/Lua.png"),  linear-gradient(33deg, #524f4c, #525a5f);
   background-size: cover;
   background-position: 50% 50%;
 }
